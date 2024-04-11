@@ -1,0 +1,66 @@
+body {
+    background: #EEEEFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    height: 400px;
+    width: 500px;
+    margin: 230px auto
+}
+
+input {
+    margin: 9px;
+}
+
+
+label {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+}
+
+.radio {
+    font-family: "Inter", sans-serif;
+}
+
+#radio1 {
+    margin: 0;
+}
+
+#radio2 {
+    margin: 0;
+}
+
+#radio3 {
+    margin: 0;
+}
+
+.lb {
+    margin: 0;
+}
+
+#bt1 {
+    margin-left: 130px;
+    margin-top: 40px;
+    margin: 40px 10px 0 130px;
+    font-size: 10px;
+    padding: 3px 5px 3px 5px;
+}
+
+#bt2 {
+    margin-right: 80px;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin: 40px 80px 0 10px;
+    font-size: 10px;
+    padding: 3px 5px 3px 5px;
+}
